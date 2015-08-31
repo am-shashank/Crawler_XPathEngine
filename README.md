@@ -1,4 +1,4 @@
-# Crawler_XPathEngine
+# Crawler + XPathEngine or RSS Aggregator
 A topic-specific crawler looks for documents or data matching a particular category. Here, the category will be specified as an XPath expression. This will entail: 
 * writing a servlet-based Web application that runs on the application server and allows users to create topic-specific "channels" defined by a set of XPath expressions, and to display documents that match a channel using a referenced XSL stylesheet; 
 * writing an XPath evaluation engine that determines if an HTML or XML document matches one of a set of XPath expressions; 
